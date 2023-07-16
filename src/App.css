@@ -1,0 +1,15 @@
+
+.rect{
+    border:1px solid grey;
+    margin:5px;
+    cursor: pointer;
+}
+.line{
+    border:none; cursor:pointer;
+    cursor: pointer;
+}
+#div1, .surukleBirak {
+    height: 100vh;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+}
